@@ -1,4 +1,5 @@
-<iframe src="https://giphy.com/embed/FoVzfcqCDSb7zCynOp" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-abjahanbin-FoVzfcqCDSb7zCynOp">via GIPHY</a></p>
+![image](https://user-images.githubusercontent.com/68691080/197387083-280168fd-23a1-4026-879a-8c87269bf214.png)
+
 
 - 👋 Hi, I’m Apoorv Pathak. I am an Indian 🇮🇳 student living in Canada 🇨🇦
 - 👀 I’m interested in Data, Web-dev, and ML & AI
