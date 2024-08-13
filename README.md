@@ -1,4 +1,3 @@
-![gif](https://media1.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47nklmrmh76sghubn0hnafcbavlfwcbrg9v9up679p&rid=giphy.gif&ct=g)
 
 
 - 👋 Hi, I’m Apoorv Pathak. I am an Indian 🇮🇳 student living in Canada 🇨🇦
