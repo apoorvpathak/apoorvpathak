@@ -59,8 +59,7 @@
     <a href="https://www.apoorvpathak.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="website logo" />
 </a>
-
 </div>
 
 ###
-
+## checkout my projects as pinned repos ⬇️
